@@ -2,7 +2,7 @@
 
 ## About
 
-This is a:
+This is a:  
 1. Collection of my learnings and experiments with various aspects of web3 security.  
 2. Record of my journey to becoming a top Security Researcher.  
 3. KKnowledge base on exploits, attack vectors, patterns/techniques/tips for writing secure code.  
@@ -10,4 +10,4 @@ This is a:
 
 ## Organization
 
-This repository is divided into 4 sections - a `collection`, a `journal`, a `knowledgebase`, and `study`.
+This repository is divided into 4 sections - a `collection`, a `journal`, a `knowledgebase`, and `study`.  
